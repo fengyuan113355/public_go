@@ -4,6 +4,6 @@ import (
 	"log"
 )
 
-func hello() {
+func Hello() {
 	log.Println("library 2  -----> " + "hello")
 }
